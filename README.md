@@ -120,4 +120,3 @@ Các nội dung kiểm tra:
 
 **Repository:** https://github.com/dothanhtu2003/bookstore-management
 
-**Mục đích:** Thực hành làm việc nhóm và quản lý phiên bản với Git/GitHub trong Lab 07.
