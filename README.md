@@ -10,7 +10,6 @@ Các chức năng dự kiến:
 - Quản lý bán hàng và hóa đơn.
 - Theo dõi thông tin giao dịch.
 
-Trong Lab 07, nhóm tập trung thực hành quản lý phiên bản và làm việc nhóm bằng Git/GitHub, chưa yêu cầu triển khai chức năng phần mềm.
 
 ## 2. Thành viên nhóm
 
@@ -31,8 +30,6 @@ Nhóm gồm 4 thành viên:
 
 ## 4. Cấu trúc dự án
 
-Cấu trúc thư mục dự kiến của nhóm:
-
 ```text
 bookstore-management/
 ├── README.md
@@ -51,7 +48,6 @@ bookstore-management/
 - `backend/`: Cấu trúc dành cho phần Backend.
 - `frontend/`: Cấu trúc dành cho phần Frontend.
 
-Các file và thư mục sẽ được các thành viên bổ sung trên nhánh riêng trong quá trình thực hành. Git không theo dõi thư mục rỗng; có thể sử dụng `.gitkeep` để giữ cấu trúc.
 
 ## 5. Hướng dẫn cài đặt
 
@@ -112,8 +108,6 @@ Sau đó tạo Pull Request để kiểm tra và gộp các thay đổi vào nh�
 
 ## 7. Kiểm thử
 
-Lab 07 tập trung kiểm tra quy trình quản lý mã nguồn bằng Git/GitHub, không yêu cầu chạy kiểm thử chức năng ứng dụng.
-
 Các nội dung kiểm tra:
 - Tạo nhánh riêng cho từng thành viên.
 - Tạo file và cấu trúc thư mục theo phân công.
@@ -121,8 +115,6 @@ Các nội dung kiểm tra:
 - Tạo, kiểm tra và gộp Pull Request.
 - Xử lý xung đột khi gộp nhánh.
 - Cập nhật thay đổi bằng `git pull`.
-
-Chưa có báo cáo Coverage vì chưa triển khai kiểm thử mã nguồn.
 
 ---
 
