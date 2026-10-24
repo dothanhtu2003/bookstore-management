@@ -1,0 +1,39 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.iml
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+*.key
+*.p12
+*.jks
+
+# Java / Spring Boot / Maven / Gradle
+target/
+build/
+.gradle/
+*.class
+*.log
+
+# Node.js / frontend
+node_modules/
+dist/
+coverage/
+.next/
+.vite/
+
+# Test and temporary output
+*.tmp
+*.swp
+*.bak
+__pycache__/
+.pytest_cache/
+
+# Keep project docs and source code tracked
